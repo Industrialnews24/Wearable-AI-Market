@@ -3,7 +3,7 @@
 
 ## Market Overview
 
-The global Wearable AI market was valued at **USD 60.8 billion in 2023** and is projected to grow at a CAGR of **8.3%** from 2024 to 2034, reaching **USD 146.2 billion** by the end of the forecast period.
+The global [Wearable AI market](https://www.transparencymarketresearch.com/wearable-ai-market.html) was valued at **USD 60.8 billion in 2023** and is projected to grow at a CAGR of **8.3%** from 2024 to 2034, reaching **USD 146.2 billion** by the end of the forecast period.
 
 Wearable AI refers to devices that embed artificial intelligence algorithms—either on-device or cloud-based—into everyday accessories. These devices utilize advanced sensors, machine learning models, and wireless connectivity to deliver personalized assistance in health monitoring, communication, productivity, and entertainment.
 
